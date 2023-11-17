@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: usuario
+Build-Jdk: 20.0.2
+Class-Path: itextpdf-5.5.13.3.jar
+Main-Class: es.iessoterohernandez.daw.endes.HelloWordPdf
+Created-By: Maven Integration for Eclipse
+
