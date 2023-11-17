@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Built-By: usuario
-Build-Jdk: 20.0.2
-Class-Path: fibonacci-0.0.1-SNAPSHOT.jar
-Main-Class: es.iessoterhernandez.daw.endes.App
-Created-By: Maven Integration for Eclipse
-
